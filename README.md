@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Software Engineer | React Developer Karim Hisham</h1>
 <h3 align="center">Front-End Developer</h3>
 
