@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer | React Developer Karim Hisham</h1>
+<h1 align="center">Software Engineer | Front-End Developer Karim Hisham</h1>
 <h3 align="center">Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x-karim&label=Profile%20views&color=0e75b6&style=flat" alt="0x-karim" /> </p>
