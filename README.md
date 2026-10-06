@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%26+Next.js;Currently+Reviewing+React+%26+Next.js;Exploring+AI;Open+to+Work+%26+Freelance)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%26+Next.js;Currently+Reviewing+React+%26+Next.js;Exploring+AI;Open+to+Work+%26+Freelance)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### `~/about`
+### `About`
 
 - 🔭 Currently **reviewing & deepening** my React and Next.js skills
 - 🤖 Exploring **AI** and how to bring it into front-end workflows
@@ -24,7 +24,7 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### `~/tech-stack`
+### `Tech-stack`
 <sub>Growing list — updated as I pick up new tools</sub>
 
 **Languages**
@@ -61,7 +61,7 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### `~/featured-projects`
+### `Featured-projects`
 
 <!-- TODO: swap the "Live Demo" links below once your rebuilt versions are deployed -->
 
@@ -74,7 +74,7 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-### `~/github-stats`
+### `Github-stats`
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-### `~/contact`
+### `Contact`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0A0E17)](https://www.linkedin.com/in/karim-hisham-dev)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimhisham906@gmail.com)
